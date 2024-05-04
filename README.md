@@ -1,7 +1,5 @@
 # 📊 Decadal Insights: An Exploration of Degree Selection and Completion Rates Across Demographics (2000-2022)
 
-![Project Banner](images/project_banner.png)
-
 ## 🎓 Project Overview
 
 This project conducts a comprehensive analysis of higher education data spanning from 2000 to 2022. It aims to uncover how demographic attributes such as gender, race, and immigration status influence degree selection and completion rates across different academic disciplines and award levels.
