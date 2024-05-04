@@ -55,10 +55,6 @@ The analysis reveals significant trends and disparities in degree popularity acr
 - **Racial and Ethnic Disparities**: Varying trends in Liberal Arts enrollment, STEM field enrollment, and vocational program enrollment across racial and ethnic groups.
 - **Intersectional Considerations**: The importance of considering the multidimensional nature of students' identities when analyzing educational choices and experiences.
 
-## 🚀 Deployment and Maintenance
-
-The project follows a structured deployment strategy, including code review, testing, environment setup, data migration, continuous integration and deployment (CI/CD), monitoring, and documentation. Maintenance and support processes ensure the long-term sustainability and reliability of the data analytics system.
-
 ## 📖 Conclusion
 
 This comprehensive data analytics project serves as a powerful tool for understanding and addressing disparities in higher education. By leveraging data-driven insights, educational institutions and policymakers can make informed decisions to promote equity, inclusivity, and student success. The project's scalable architecture, comprehensive analysis, and focus on continuous improvement lay the foundation for ongoing research and data-driven decision-making in the field of higher education.
